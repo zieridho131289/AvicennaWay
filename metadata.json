@@ -1,0 +1,6 @@
+{
+  "name": "Avicenna Way Daily Log Reminder & Weekly Resume",
+  "description": "Sistem reminder otomatis pengisian Daily Log Avicenna Way terhubung WhatsApp dengan resume mingguan, apresiasi penghargaan 100%, dan pengingat personal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
